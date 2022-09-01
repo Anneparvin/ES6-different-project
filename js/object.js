@@ -14,5 +14,5 @@ class person {
 }
 const person1 = new person('johnny','dell')
 const person2 = new person('jehnni','bylei')
-
+console.log(person1,person2);
 
